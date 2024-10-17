@@ -1,0 +1,80 @@
+h1{
+    color: blueviolet; 
+    font-weight: bold; 
+    text-align: center;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: auto; 
+}
+
+caption {
+    color:blue; 
+    padding: 30px;
+    font-size: 25px; 
+    margin-bottom: 10px;
+}
+
+th {
+    width: 100px; 
+    background-color: pink; 
+    color: black; 
+    text-align: center; 
+    font-weight: bold; 
+    border: 1px solid black; 
+}
+td {
+    border: 1px solid black; 
+}
+
+.programa{
+    background-color: rgb(218, 50, 218);
+}
+
+.bbdd {
+    background-color: rgb(25, 221, 25);
+        
+}
+
+.Tutoria {
+    background-color: yellow;
+    
+}
+
+.IPOI {
+    background-color: rgb(25, 221, 218);
+    
+}
+
+.LMGSI{
+    background-color: red;
+}
+
+.Sistemes{
+    background-color: rgb(66, 66, 214);
+}
+
+.Anglès{
+    background-color: orange;
+}
+
+.DIW{
+    background-color:rgb(153, 0, 255);
+}
+
+.hora{
+    font-size: 20px;
+    padding: 10px;
+    width:180px;
+}
+
+.descans{
+    font-size: 20px;
+    padding: 15px;
+}
+
+body{
+    font-family: Vedana, sans-serif;
+}
